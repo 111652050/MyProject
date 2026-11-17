@@ -4,7 +4,7 @@
 
 所有長度整除 \\(4\\) 的 Lyndon words 為：
 
-$\\[ 0,\quad 0001,\quad 0011,\quad 01,\quad 0111,\quad 1. \\]$
+$$\\[ 0,\quad 0001,\quad 0011,\quad 01,\quad 0111,\quad 1. \\]$$
 
 按照字典序串接：
 
