@@ -155,7 +155,7 @@ www-igm.univ-mlv.fr
 
 2016 年 Sawada、Williams、Wong 已研究一大類滿足特定 suffix closure 條件的語言，證明 greedy algorithm 與 necklace concatenation 都能產生其字典序最小的 universal cycle。
 
-[image](https://www.google.com/s2/favicons?domain=https://www.combinatorics.org\&sz=32)
+
 
 combinatorics.org
 
@@ -204,7 +204,7 @@ combinatorics.org
 
 2026 年的論文 *Concatenation Trees: A Framework for Efficient Universal Cycle and de Bruijn Sequence Constructions*，已建立 cycle-joining trees 與 concatenation trees 之間的系統性關係，並特別解釋經典 Lyndon word concatenation 與相應 cycle-joining construction 的連結。
 
-[image](https://www.google.com/s2/favicons?domain=https://www.sciencedirect.com\&sz=32)
+
 
 sciencedirect.com
 
