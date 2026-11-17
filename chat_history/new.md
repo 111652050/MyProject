@@ -1,6 +1,6 @@
 可以！我們以 binary De Bruijn sequence，\(n=4\) 為例，找一個不按照字典序排列 Lyndon words，卻仍然得到 De Bruijn sequence 的例子。
 一、原本的 FKM Construction
-所有長度整除 \(4\) 的 Lyndon words 為：
+所有長度整除 $\(4\)$ 的 Lyndon words 為：
 \[
 0,\quad 0001,\quad 0011,\quad 01,\quad 0111,\quad 1.
 \]
