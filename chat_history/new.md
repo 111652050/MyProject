@@ -14,26 +14,7 @@ FKM Construction 是將長度整除
 n
 n 的 Lyndon words，依字典序串接：
 
-B
-=
-L
-1
-L
-2
-⋯
-L
-m
-.
-B=L 
-1
-​
- L 
-2
-​
- ⋯L 
-m
-​
- .
+B=L1L2⋯Lm.B=L1L2⋯Lm.
 傳統上，我們知道這樣可以得到 De Bruijn sequence。
 
 但這篇證明關心的是更深入的問題：
@@ -47,24 +28,8 @@ Step 3 和 Step 4 提供了一個很有意思的觀察：
 一個 necklace 的 rotations，不一定出現在代表它的 Lyndon word 附近，而可能出現在其他 necklaces 的串接邊界。
 
 例如 
-n
-=
-4
 n=4：
-
-B
-=
-0
-⋅
-0001
-⋅
-0011
-⋅
-01
-⋅
-0111
-⋅
-1.
+B=0⋅0001⋅0011⋅01⋅0111⋅1.
 B=0⋅0001⋅0011⋅01⋅0111⋅1.
 考慮 necklace
 
